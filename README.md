@@ -7,7 +7,7 @@ ready to be used as a library in Arduino projects.
 To use it e.g. in the [Arduino Online Editor](https://create.arduino.cc/) you can
 download the Zip-File from the **dist** folder and reimport it in the IDE.
 
-Below is a basic example arduino sketch that shows how to use the protothreads.
+Below is a basic example arduino sketch that shows how the library can be used.
 
 ```C++
 // import library
