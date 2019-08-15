@@ -7,9 +7,7 @@ ready to be used as a library in Arduino projects.
 To use it e.g. in the [Arduino Online Editor](https://create.arduino.cc/) you can
 download the Zip-File from the **dist** folder and reimport it in the IDE.
 
-Below is a C++-style protothread that implements a simple packet protocol.
-Each packet has a sync byte, a length byte, *n* data bytes, and a checksum
-byte. Packets are only processed if they’re good and complete:
+Below is a basic example arduino sketch that shows how to use the protothreads.
 
 ```C++
 // import library
